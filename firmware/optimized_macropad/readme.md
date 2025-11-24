@@ -1,6 +1,6 @@
 # optimized_macropad
 
-![optimized_macropad](imgur.com image replace me!)
+![optimized_macropad](https://imgur.com/a/1J2wBdI)
 
 *A short description of the keyboard/project*
 
