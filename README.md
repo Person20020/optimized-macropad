@@ -32,5 +32,6 @@ Schematic
 | m3 Heat Set Inserts | 4        | $5.59 (pack of 100)        | [Amazon](https://a.co/d/d310qRA)                           |
 | Total Parts Price   |          | ~$32.89                    |                                                            |
 
-PCBs cost $2 for the first one and $5 for the second.
-Total cost: ~$39.89
+PCBs cost $8.40.
+
+Total cost: ~$41.29
